@@ -1,2 +1,2 @@
 # comando-Docker
-10 comando Docker para ir se aocstumando com o siostema
+10 comando Docker para ir se aocstumando com o sistema
