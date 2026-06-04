@@ -1,5 +1,5 @@
 # comando-Docker
-### 10 comando Docker para ir se aocstumando com o sistema
+### 10 comando Docker para ir se acostumando com o sistema
 
 <div align="center">
 
